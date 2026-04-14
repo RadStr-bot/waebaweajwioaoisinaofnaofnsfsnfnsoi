@@ -1,0 +1,22 @@
+{
+  "iri": "bb4594cd-f197-4456-bdd9-f93bfae72d9e",
+  "projectIri": "bb4594cd-f197-4456-bdd9-f93bfae72d9e",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "awe"
+    },
+    "description": {
+      "cs": "aweaw"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-04-14T21:17:23.123Z",
+    "modificationDate": "2026-04-14T21:17:39.216Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
